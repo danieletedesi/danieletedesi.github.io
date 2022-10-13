@@ -3,3 +3,120 @@ body {
   font-family: monospace;
   color: #FFFFFF;
 }
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+.button {
+  background-color: #F5F5F5;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width:45%;
+  font-weight: bold;    
+  box-sizing: border-box;
+}
+
+.instagram {
+  background-color: #d6249f; 
+  color: #F5F5F5;
+}
+
+.instagram:hover {
+  background-color: #F5F5F5;
+  color: #d6249f;
+}
+
+.twitter {
+  background-color: #1DA1F2; 
+  color: #F5F5F5; 
+}
+
+.twitter:hover {
+  background-color: #F5F5F5;
+  color: #1DA1F2;
+}
+
+.youtube {
+  background-color: #FF0000; 
+  color: #F5F5F5; 
+}
+
+.youtube:hover {
+  background-color: #F5F5F5;
+  color: #FF0000;
+}
+
+.soundcloud {
+  background-color: #ff3300; 
+  color: #F5F5F5; 
+}
+
+.soundcloud:hover {
+  background-color: #F5F5F5;
+  color: #ff3300;
+}
+
+.linkedin {
+  background-color: #00a0dc; 
+  color: #F5F5F5; 
+}
+
+.linkedin:hover {
+  background-color: #F5F5F5;
+  color: #00a0dc;
+}
+
+.spotify {
+  background-color: #1DB954; 
+  color: #F5F5F5; 
+}
+
+.spotify:hover {
+  background-color: #F5F5F5;
+  color: #1DB954;
+}
+
+.github {
+  background-color: #333; 
+  color: #F5F5F5; 
+}
+
+.github:hover {
+  background-color: #F5F5F5;
+  color: #333;
+}
+
+.artstation {
+  background-color: #13aff0; 
+  color: #F5F5F5; 
+}
+
+.artstation:hover {
+  background-color: #F5F5F5;
+  color: #13aff0;
+}
+
+.footer {
+	position: auto;
+	width: 100%;
+	text-align: center;
+	
+}
+.btc{
+	color: #f2a900;
+}
+.eth{
+	color: #3c3c3d;
+}
+.xmr{
+	color: #ff6600;
+}
